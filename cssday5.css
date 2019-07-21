@@ -17,11 +17,12 @@ h4 {
    
 }
 #main-bar{
-    float: left;
-    width: 35%;
+    float: right;
+    width: 45%;
     /* background-color: dimgray; */
     
-    padding: 40px;
+    padding: 100px;
+    padding-top: 50px;
     box-sizing: border-box;
     /* border:1px solid #f4f4f4; */
 text-align: justify;
